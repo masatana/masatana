@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masatana)]
-[![masatana's GitHub stats](https://github-readme-stats.vercel.app/api?username=masatana)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masatana)](https://github.com/anuraghazra/github-readme-stats)
+[![masatana's GitHub stats](https://github-readme-stats.vercel.app/api?username=masatana)](https://github.com/anuraghazra/github-readme-stats)
+
